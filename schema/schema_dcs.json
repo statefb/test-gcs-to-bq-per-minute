@@ -1,0 +1,26 @@
+[
+  {
+    "name": "date",
+    "type": "DATETIME"
+  },
+  {
+    "name": "TagA",
+    "type": "FLOAT64",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "TagB",
+    "type": "FLOAT64",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "TagC",
+    "type": "FLOAT64",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "TagD",
+    "type": "FLOAT64",
+    "mode": "NULLABLE"
+  }
+]

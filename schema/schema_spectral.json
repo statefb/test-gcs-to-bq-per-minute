@@ -1,0 +1,11 @@
+[
+  {
+    "name": "date",
+    "type": "DATETIME"
+  },
+  {
+    "name": "spectral",
+    "type": "FLOAT64",
+    "mode": "REPEATED"
+  }
+]
